@@ -5,15 +5,30 @@
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
+<<<<<<< HEAD
                             Preamble
 
   The GNU General Public License is a free, copyleft license for
 software and other kinds of works.
 
+=======
+
+                            Preamble
+
+  The GNU General Public License is a free, copyleft license for
+
+software and other kinds of works.
+
+
+>>>>>>> 3956b35 (Beginning)
   The licenses for most software and other practical works are designed
 to take away your freedom to share and change the works.  By contrast,
 the GNU General Public License is intended to guarantee your freedom to
 share and change all versions of a program--to make sure it remains free
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 software for all its users.  We, the Free Software Foundation, use the
 GNU General Public License for most of our software; it applies also to
 any other work released this way by its authors.  You can apply it to
@@ -35,12 +50,23 @@ you modify it: responsibilities to respect the freedom of others.
 gratis or for a fee, you must pass on to the recipients the same
 freedoms that you received.  You must make sure that they, too, receive
 or can get the source code.  And you must show them these terms so they
+<<<<<<< HEAD
 know their rights.
 
+=======
+
+know their rights.
+
+
+>>>>>>> 3956b35 (Beginning)
   Developers that use the GNU GPL protect your rights with two steps:
 (1) assert copyright on the software, and (2) offer you this License
 giving you legal permission to copy, distribute and/or modify it.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
   For the developers' and authors' protection, the GPL clearly explains
 that there is no warranty for this free software.  For both users' and
 authors' sake, the GPL requires that modified versions be marked as
@@ -49,12 +75,22 @@ authors of previous versions.
 
   Some devices are designed to deny users access to install or run
 modified versions of the software inside them, although the manufacturer
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 can do so.  This is fundamentally incompatible with the aim of
 protecting users' freedom to change the software.  The systematic
 pattern of such abuse occurs in the area of products for individuals to
 use, which is precisely where it is most unacceptable.  Therefore, we
 have designed this version of the GPL to prohibit the practice for those
+<<<<<<< HEAD
 products.  If such problems arise substantially in other domains, we
+=======
+
+products.  If such problems arise substantially in other domains, we
+
+>>>>>>> 3956b35 (Beginning)
 stand ready to extend this provision to those domains in future versions
 of the GPL, as needed to protect the freedom of users.
 
@@ -96,6 +132,10 @@ computer or modifying a private copy.  Propagation includes copying,
 distribution (with or without modification), making available to the
 public, and in some countries other activities as well.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
   To "convey" a work means any kind of propagation that enables other
 parties to make or receive copies.  Mere interaction with a user through
 a computer network, with no transfer of a copy, is not conveying.
@@ -109,12 +149,20 @@ work under this License, and how to view a copy of this License.  If
 the interface presents a list of user commands or options, such as a
 menu, a prominent item in the list meets this criterion.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
   1. Source Code.
 
   The "source code" for a work means the preferred form of the work
 for making modifications to it.  "Object code" means any non-source
 form of a work.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
   A "Standard Interface" means an interface that either is an official
 standard defined by a recognized standards body, or, in the case of
 interfaces specified for a particular programming language, one that
@@ -126,6 +174,10 @@ packaging a Major Component, but which is not part of that Major
 Component, and (b) serves only to enable use of the work with that
 Major Component, or to implement a Standard Interface for which an
 implementation is available to the public in source code form.  A
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 "Major Component", in this context, means a major essential component
 (kernel, window system, and so on) of the specific operating system
 (if any) on which the executable work runs, or a compiler used to
@@ -148,6 +200,10 @@ subprograms and other parts of the work.
 can regenerate automatically from other parts of the Corresponding
 Source.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
   The Corresponding Source for a work in source code form is that
 same work.
 
@@ -168,6 +224,10 @@ of having them make modifications exclusively for you, or provide you
 with facilities for running those works, provided that you comply with
 the terms of this License in conveying all material for which you do
 not control copyright.  Those thus making or running the covered works
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 for you must do so exclusively on your behalf, under your direction
 and control, on terms that prohibit them from making any copies of
 your copyrighted material outside their relationship with you.
@@ -180,6 +240,10 @@ makes it unnecessary.
 
   No covered work shall be deemed part of an effective technological
 measure under any applicable law fulfilling obligations under article
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 11 of the WIPO copyright treaty adopted on 20 December 1996, or
 similar laws prohibiting or restricting circumvention of such
 measures.
@@ -196,6 +260,10 @@ technological measures.
 
   You may convey verbatim copies of the Program's source code as you
 receive it, in any medium, provided that you conspicuously and
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 appropriately publish on each copy an appropriate copyright notice;
 keep intact all notices stating that this License and any
 non-permissive terms added in accord with section 7 apply to the code;
@@ -207,6 +275,10 @@ and you may offer support or warranty protection for a fee.
 
   5. Conveying Modified Source Versions.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
   You may convey a work based on the Program, or the modifications to
 produce it from the Program, in the form of source code under the
 terms of section 4, provided that you also meet all of these conditions:
@@ -216,9 +288,17 @@ terms of section 4, provided that you also meet all of these conditions:
 
     b) The work must carry prominent notices stating that it is
     released under this License and any conditions added under section
+<<<<<<< HEAD
     7.  This requirement modifies the requirement in section 4 to
     "keep intact all notices".
 
+=======
+
+    7.  This requirement modifies the requirement in section 4 to
+    "keep intact all notices".
+
+
+>>>>>>> 3956b35 (Beginning)
     c) You must license the entire work, as a whole, under this
     License to anyone who comes into possession of a copy.  This
     License will therefore apply, along with any applicable section 7
@@ -237,6 +317,10 @@ works, which are not by their nature extensions of the covered work,
 and which are not combined with it such as to form a larger program,
 in or on a volume of a storage or distribution medium, is called an
 "aggregate" if the compilation and its resulting copyright are not
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 used to limit the access or legal rights of the compilation's users
 beyond what the individual works permit.  Inclusion of a covered work
 in an aggregate does not cause this License to apply to the other
@@ -244,6 +328,10 @@ parts of the aggregate.
 
   6. Conveying Non-Source Forms.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
   You may convey a covered work in object code form under the terms
 of sections 4 and 5, provided that you also convey the
 machine-readable Corresponding Source under the terms of this License,
@@ -255,6 +343,10 @@ in one of these ways:
     customarily used for software interchange.
 
     b) Convey the object code in, or embodied in, a physical product
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
     (including a physical distribution medium), accompanied by a
     written offer, valid for at least three years and valid for as
     long as you offer spare parts or customer support for that product
@@ -264,6 +356,10 @@ in one of these ways:
     medium customarily used for software interchange, for a price no
     more than your reasonable cost of physically performing this
     conveying of source, or (2) access to copy the
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
     Corresponding Source from a network server at no charge.
 
     c) Convey individual copies of the object code with a copy of the
@@ -290,23 +386,42 @@ in one of these ways:
     Source of the work are being offered to the general public at no
     charge under subsection 6d.
 
+<<<<<<< HEAD
   A separable portion of the object code, whose source code is excluded
 from the Corresponding Source as a System Library, need not be
+=======
+
+  A separable portion of the object code, whose source code is excluded
+from the Corresponding Source as a System Library, need not be
+
+>>>>>>> 3956b35 (Beginning)
 included in conveying the object code work.
 
   A "User Product" is either (1) a "consumer product", which means any
 tangible personal property which is normally used for personal, family,
 or household purposes, or (2) anything designed or sold for incorporation
 into a dwelling.  In determining whether a product is a consumer product,
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 doubtful cases shall be resolved in favor of coverage.  For a particular
 product received by a particular user, "normally used" refers to a
 typical or common use of that class of product, regardless of the status
 of the particular user or of the way in which the particular user
 actually uses, or expects or is expected to use, the product.  A product
 is a consumer product regardless of whether the product has substantial
+<<<<<<< HEAD
 commercial, industrial or non-consumer uses, unless such uses represent
 the only significant mode of use of the product.
 
+=======
+
+commercial, industrial or non-consumer uses, unless such uses represent
+the only significant mode of use of the product.
+
+
+>>>>>>> 3956b35 (Beginning)
   "Installation Information" for a User Product means any methods,
 procedures, authorization keys, or other information required to install
 and execute modified versions of a covered work in that User Product from
@@ -315,12 +430,20 @@ suffice to ensure that the continued functioning of the modified object
 code is in no case prevented or interfered with solely because
 modification has been made.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
   If you convey an object code work under this section in, or with, or
 specifically for use in, a User Product, and the conveying occurs as
 part of a transaction in which the right of possession and use of the
 User Product is transferred to the recipient in perpetuity or for a
 fixed term (regardless of how the transaction is characterized), the
 Corresponding Source conveyed under this section must be accompanied
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 by the Installation Information.  But this requirement does not apply
 if neither you nor any third party retains the ability to install
 modified object code on the User Product (for example, the work has
@@ -336,6 +459,10 @@ protocols for communication across the network.
 
   Corresponding Source conveyed, and Installation Information provided,
 in accord with this section must be in a format that is publicly
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 documented (and with an implementation available to the public in
 source code form), and must require no special password or key for
 unpacking, reading or copying.
@@ -345,10 +472,18 @@ unpacking, reading or copying.
   "Additional permissions" are terms that supplement the terms of this
 License by making exceptions from one or more of its conditions.
 Additional permissions that are applicable to the entire Program shall
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 be treated as though they were included in this License, to the extent
 that they are valid under applicable law.  If additional permissions
 apply only to part of the Program, that part may be used separately
 under those permissions, but the entire Program remains governed by
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 this License without regard to the additional permissions.
 
   When you convey a copy of a covered work, you may at your option
@@ -360,15 +495,30 @@ for which you have or can give appropriate copyright permission.
 
   Notwithstanding any other provision of this License, for material you
 add to a covered work, you may (if authorized by the copyright holders of
+<<<<<<< HEAD
 that material) supplement the terms of this License with terms:
 
+=======
+
+that material) supplement the terms of this License with terms:
+
+
+>>>>>>> 3956b35 (Beginning)
     a) Disclaiming warranty or limiting liability differently from the
     terms of sections 15 and 16 of this License; or
 
     b) Requiring preservation of specified reasonable legal notices or
+<<<<<<< HEAD
     author attributions in that material or in the Appropriate Legal
     Notices displayed by works containing it; or
 
+=======
+
+    author attributions in that material or in the Appropriate Legal
+    Notices displayed by works containing it; or
+
+
+>>>>>>> 3956b35 (Beginning)
     c) Prohibiting misrepresentation of the origin of that material, or
     requiring that modified versions of such material be marked in
     reasonable ways as different from the original version; or
@@ -381,6 +531,10 @@ that material) supplement the terms of this License with terms:
 
     f) Requiring indemnification of licensors and authors of that
     material by anyone who conveys the material (or modified versions of
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
     it) with contractual assumptions of liability to the recipient, for
     any liability that these contractual assumptions directly impose on
     those licensors and authors.
@@ -390,17 +544,34 @@ restrictions" within the meaning of section 10.  If the Program as you
 received it, or any part of it, contains a notice stating that it is
 governed by this License along with a term that is a further
 restriction, you may remove that term.  If a license document contains
+<<<<<<< HEAD
 a further restriction but permits relicensing or conveying under this
+=======
+
+a further restriction but permits relicensing or conveying under this
+
+>>>>>>> 3956b35 (Beginning)
 License, you may add to a covered work material governed by the terms
 of that license document, provided that the further restriction does
 not survive such relicensing or conveying.
 
+<<<<<<< HEAD
   If you add terms to a covered work in accord with this section, you
 must place, in the relevant source files, a statement of the
+=======
+
+  If you add terms to a covered work in accord with this section, you
+must place, in the relevant source files, a statement of the
+
+>>>>>>> 3956b35 (Beginning)
 additional terms that apply to those files, or a notice indicating
 where to find the applicable terms.
 
   Additional terms, permissive or non-permissive, may be stated in the
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 form of a separately written license, or stated as exceptions;
 the above requirements apply either way.
 
@@ -419,10 +590,18 @@ finally terminates your license, and (b) permanently, if the copyright
 holder fails to notify you of the violation by some reasonable means
 prior to 60 days after the cessation.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
   Moreover, your license from a particular copyright holder is
 reinstated permanently if the copyright holder notifies you of the
 violation by some reasonable means, this is the first time you have
 received notice of violation of this License (for any work) from that
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 copyright holder, and you cure the violation prior to 30 days after
 your receipt of the notice.
 
@@ -463,6 +642,10 @@ the predecessor has it or can get it with reasonable efforts.
   You may not impose any further restrictions on the exercise of the
 rights granted or affirmed under this License.  For example, you may
 not impose a license fee, royalty, or other charge for exercise of
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 rights granted under this License, and you may not initiate litigation
 (including a cross-claim or counterclaim in a lawsuit) alleging that
 any patent claim is infringed by making, using, selling, offering for
@@ -470,6 +653,10 @@ sale, or importing the Program or any portion of it.
 
   11. Patents.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
   A "contributor" is a copyright holder who authorizes use under this
 License of the Program or a work on which the Program is based.  The
 work thus licensed is called the contributor's "contributor version".
@@ -492,6 +679,10 @@ propagate the contents of its contributor version.
   In the following three paragraphs, a "patent license" is any express
 agreement or commitment, however denominated, not to enforce a patent
 (such as an express permission to practice a patent or covenant not to
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 sue for patent infringement).  To "grant" such a patent license to a
 party means to make such an agreement or commitment not to enforce a
 patent against the party.
@@ -558,6 +749,10 @@ combined work, and to convey the resulting work.  The terms of this
 License will continue to apply to the part which is the covered work,
 but the special requirements of the GNU Affero General Public License,
 section 13, concerning interaction through a network will apply to the
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 combination as such.
 
   14. Revised Versions of this License.
@@ -565,11 +760,21 @@ combination as such.
   The Free Software Foundation may publish revised and/or new versions of
 the GNU General Public License from time to time.  Such new versions will
 be similar in spirit to the present version, but may differ in detail to
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 address new problems or concerns.
 
   Each version is given a distinguishing version number.  If the
 Program specifies that a certain numbered version of the GNU General
+<<<<<<< HEAD
 Public License "or any later version" applies to it, you have the
+=======
+
+Public License "or any later version" applies to it, you have the
+
+>>>>>>> 3956b35 (Beginning)
 option of following the terms and conditions either of that numbered
 version or of any later version published by the Free Software
 Foundation.  If the Program does not specify a version number of the
@@ -581,6 +786,10 @@ versions of the GNU General Public License can be used, that proxy's
 public statement of acceptance of a version permanently authorizes you
 to choose that version for the Program.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
   Later license versions may give you additional or different
 permissions.  However, no additional obligations are imposed on any
 author or copyright holder as a result of your choosing to follow a
@@ -595,8 +804,15 @@ OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
 THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
 PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
 IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
+<<<<<<< HEAD
 ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 
+=======
+
+ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+
+>>>>>>> 3956b35 (Beginning)
   16. Limitation of Liability.
 
   IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
@@ -606,7 +822,13 @@ GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE
 USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF
 DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
 PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),
+<<<<<<< HEAD
 EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
+=======
+
+EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
+
+>>>>>>> 3956b35 (Beginning)
 SUCH DAMAGES.
 
   17. Interpretation of Sections 15 and 16.
@@ -616,6 +838,10 @@ above cannot be given local legal effect according to their terms,
 reviewing courts shall apply local law that most closely approximates
 an absolute waiver of all civil liability in connection with the
 Program, unless a warranty or assumption of liability accompanies a
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 copy of the Program in return for a fee.
 
                      END OF TERMS AND CONDITIONS
@@ -627,6 +853,10 @@ possible use to the public, the best way to achieve this is to make it
 free software which everyone can redistribute and change under these terms.
 
   To do so, attach the following notices to the program.  It is safest
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
@@ -641,7 +871,13 @@ the "copyright" line and a pointer to where the full notice is found.
 
     This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
+<<<<<<< HEAD
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+=======
+
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+
+>>>>>>> 3956b35 (Beginning)
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
@@ -668,6 +904,10 @@ For more information on this, and how to apply and follow the GNU GPL, see
 
   The GNU General Public License does not permit incorporating your program
 into proprietary programs.  If your program is a subroutine library, you
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3956b35 (Beginning)
 may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
