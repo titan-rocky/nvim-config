@@ -2,7 +2,10 @@ local plugins = {
 	"packer-config",
 	"treesitter",
         "nvimtree",
-	"presence"
+	"presence",
+        "autopairs",
+        "luasnip",
+        "glow"
 }
 
 for index,plugin in pairs(plugins) do

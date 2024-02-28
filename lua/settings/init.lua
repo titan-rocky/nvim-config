@@ -2,17 +2,14 @@ require("settings.keymaps")
 require("settings.commands")
 
 local set = vim.opt
+local globals = vim.g
 
-set.termguicolors = true
+set.termguicolors = false
 set.clipboard:append("unnamedplus")
 
 set.number = true -- line numbers
 set.autoindent = true
 vim.opt.mouse = ""
-
--- Disable Netrw
-vim.g.loaded_netrwPlugin = 1
-vim.g.loaded_netrw = 1
 
 --- tab and indentation
 vim.tabstop = 4

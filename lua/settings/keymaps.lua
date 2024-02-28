@@ -51,4 +51,7 @@ remap("n", "<leader>gs", function()
 
 end)
 
---
+-- New Mappings
+remap("n", "[p", function()
+    vim.cmd(":%s/\r//g")
+end)
