@@ -1,4 +1,4 @@
-local currentScheme = "nord"
+local currentScheme = "gruvbox"
 
 require("colorschemes."..currentScheme)
 

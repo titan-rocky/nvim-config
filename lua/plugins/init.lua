@@ -1,14 +1,14 @@
 local plugins = {
-	"packer-config",
 	"treesitter",
         "nvimtree",
-	"presence",
         "autopairs",
+	"presence",
         "luasnip",
-        "glow"
+        "glow",
+	"harpoon"
 }
 
 for index,plugin in pairs(plugins) do
-	require("plugins."..plugin)
+	require("plugins.p-"..plugin)
 end
 

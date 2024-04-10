@@ -22,5 +22,9 @@ end
 
 --------------------------------- boostrapping end -----------------------------------------------------
 
-require("plugins")
+require("plugins.packer-config")
+require("lsp")
 require("settings")
+require("plugins")
+require("colorschemes")
+
