@@ -57,8 +57,9 @@ return require("packer").startup(function(use)
 	use({"andweeb/presence.nvim"}) -- Discord Rich Presence
 	use({ "mbbill/undotree" }) -- Tree visualizer of past changes
 	use({ "nvim-tree/nvim-web-devicons" })
-	use({ "lewis6991/gitsigns.nvim" })
-
+        use({ "lewis6991/gitsigns.nvim" })
+        use({ "sudoerwx/vim-ray-so-beautiful" })
+	use({ "tpope/vim-fugitive" }) --
 	-- Automatically source and re-compile packer whenever you save this init.lua
 	local packer_group = vim.api.nvim_create_augroup("Packer", { clear = true })
 	vim.api.nvim_create_autocmd("BufWritePost", {
