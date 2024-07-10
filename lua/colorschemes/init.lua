@@ -1,4 +1,5 @@
 local currentScheme = "gruvbox"
+vim.o.background = "light"
 
 require("colorschemes."..currentScheme)
 

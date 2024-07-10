@@ -31,7 +31,7 @@ return require("packer").startup(function(use)
 
 	-- Autocomplete --
 	use({ "windwp/nvim-autopairs" }) -- Autopairs
-	use({ "windwp/nvim-ts-autotag", after = "nvim-treesitter" }) -- HTML/XML Tag autocompletion
+	use({ "windwp/nvim-ts-autotag", after="nvim-treesitter" }) -- Auto Tag Completion
         use({
             "hrsh7th/cmp-nvim-lsp",
             "hrsh7th/cmp-buffer",
@@ -52,6 +52,7 @@ return require("packer").startup(function(use)
 	    run = "make install_jsregexp"
         })
         use({"saadparwaiz1/cmp_luasnip"})
+        use({"brenoprata10/nvim-highlight-colors"})
 
 	-- Extras --
 	use({"andweeb/presence.nvim"}) -- Discord Rich Presence

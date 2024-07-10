@@ -1,11 +1,14 @@
 local plugins = {
 	"treesitter",
         "nvimtree",
-        "autopairs",
 	"presence",
+        "autopairs",
+        --"autotag",
         "luasnip",
         "glow",
-	"harpoon"
+	"harpoon",
+        "nvim-highlight-cols",
+        "vim-ray"
 }
 
 for index,plugin in pairs(plugins) do

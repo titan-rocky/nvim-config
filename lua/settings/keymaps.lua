@@ -17,6 +17,7 @@ remap("n", "<C-u>", "<C-u>zz" )
 remap("x", "<leader>p", "\"_dP" )
 
 --remap ( 'n' , '<leader>t' , vim.cmd.Ex) --Netrw disabled
+
 -- File Explorer : Nvim Tree --
 remap("n", "<leader>t", ":NvimTreeToggle<CR>")
 
@@ -79,3 +80,8 @@ end,{silent=true})
 remap("n", "[p", function()
     vim.cmd(":%s/\r//g")
 end)
+
+-- Ray 
+remap({"v"},"<F5>", function()
+    vim.cmd("Ray")
+end,{})
