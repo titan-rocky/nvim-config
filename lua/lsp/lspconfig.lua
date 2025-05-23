@@ -5,8 +5,8 @@ local capabilities = require('cmp_nvim_lsp').default_capabilities()
 
 -- Setup language servers.
 local lspconfig = require('lspconfig')
-lspconfig.pyright.setup ({capabilities = capabilities})
-lspconfig.tsserver.setup ({capabilities = capabilities})
+-- lspconfig.pyright.setup ({capabilities = capabilities})
+-- lspconfig.tsserver.setup ({capabilities = capabilities}) tsserver renamed to ts_lsp
 lspconfig.rust_analyzer.setup ({
   -- Server-specific settings. See `:help lspconfig-setup`
   settings = {

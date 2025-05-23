@@ -9,3 +9,5 @@ for index,plugin in pairs(plugins) do
 	require("lsp."..plugin)
 end
 
+--print("LSP Loaded\n")
+

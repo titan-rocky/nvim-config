@@ -21,3 +21,13 @@ require("nvim-tree").setup({
     dotfiles = true,
   },
 })
+
+local function set_transparency ()
+    vim.cmd("highlight NvimTreeNormal guibg=none")
+    vim.cmd("highlight Normal guibg=none")
+    vim.cmd("highlight NormalNC guibg=none")
+end
+
+vim.api.nvim_create_autocmd({"BufWinEnter", "WinEnter", "VimResized"}, {
+  callback = set_transparency
+})

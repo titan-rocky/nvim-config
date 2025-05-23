@@ -3,15 +3,18 @@ local plugins = {
         "nvimtree",
 	"presence",
         "autopairs",
-        --"autotag",
+--        "autotag",
         "luasnip",
         "glow",
 	"harpoon",
-        "nvim-highlight-cols",
-        "vim-ray"
+        "nvim_highlight_cols",
+        "vim_ray",
+        "nvim_transparent",
+        "lualine"
 }
 
 for index,plugin in pairs(plugins) do
-	require("plugins.p-"..plugin)
+    require("plugins."..plugin)
+    --print("Plugin "..plugin.." Loaded\n")
 end
 

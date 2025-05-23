@@ -11,7 +11,7 @@ if vim.fn.empty(vim.fn.glob(install_path)) > 0 then
 end
 
 
-require("plugins/packer-config")
+require("packer_config")
 
 if is_bootstrap then
 	print("Plugins are being installed")
@@ -22,9 +22,9 @@ end
 
 --------------------------------- boostrapping end -----------------------------------------------------
 
-require("plugins.packer-config")
+require("packer_config")
 require("lsp")
-require("settings")
 require("plugins")
+require("settings")
 require("colorschemes")
 
