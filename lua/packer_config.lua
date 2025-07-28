@@ -53,6 +53,7 @@ return require("packer").startup(function(use)
         use({"brenoprata10/nvim-highlight-colors"})
 
 	-- Extras --
+        use "~/Projects/weather-reporto.nvim";
 	use({"andweeb/presence.nvim"}) -- Discord Rich Presence
         use {
             'nvim-lualine/lualine.nvim',

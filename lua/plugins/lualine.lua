@@ -7,7 +7,7 @@ require("lualine").setup{
         lualine_b = {'branch', 'diff', 'diagnostics'},
         lualine_c = {'filename'},
         lualine_x = {'encoding', 'fileformat', 'filetype'},
-        lualine_y = {'lsp_status'},
+        lualine_y = {function() return require("weather").strfeed end},
         lualine_z = {'location'}
     },
 }

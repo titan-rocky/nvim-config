@@ -10,6 +10,7 @@ local plugins = {
         "nvim_highlight_cols",
         "vim_ray",
         "nvim_transparent",
+        "weather",
         "lualine"
 }
 
